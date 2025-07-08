@@ -7,3 +7,7 @@
 ## Session 2: Statistics
 
 **Notebook:** [`statistics.ipynb`](statistics.ipynb)
+
+## Session 3: Language models
+
+**Notebook:** [`language_models.ipynb`](language_models.ipynb)
