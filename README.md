@@ -6,4 +6,6 @@ You will need **Python >= 3.10** to run the code. Please create a virtual enviro
 
 ## Session 1: Working with eye-tracking corpora
 
-[1_corpora.ipynb](1_corpora/1_corpora.ipynb)
+**Requirements:** [requirements.txt](1_corpora/requirements.txt)
+
+**Notebook:** [1_corpora.ipynb](1_corpora/1_corpora.ipynb)
