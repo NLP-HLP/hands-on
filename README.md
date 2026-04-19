@@ -6,4 +6,4 @@ You will need **Python >= 3.10** to run the code. Please create a virtual enviro
 
 ## Session 1: Working with eye-tracking corpora
 
-> Coming soon -- please check back in a few days.
+[1_corpora.ipynb](1_corpora/1_corpora.ipynb)
