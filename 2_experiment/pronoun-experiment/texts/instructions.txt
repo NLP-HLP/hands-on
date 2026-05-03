@@ -1,0 +1,5 @@
+A sentence will appear on screen. Read the sentence, then press [SPACE]. You will then have to answer a comprehension question about it. Use the [UP] and [DOWN] arrow keys to select an answer and press [SPACE] to confirm.
+
+Before each sentence, you will see a cross. Look at the center of this cross to make the sentence appear.
+
+Press [SPACE] to start the experiment.

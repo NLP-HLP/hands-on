@@ -1,0 +1,13 @@
+name: pronouns
+type: GSheetLatinSquare
+sheets_id: 1egLrvn4YYPDY6xAmVkTyCLlzU4Z0Ri3OkcNDhOHCzLI
+
+sample_rate: 1000
+num_subjects: 12
+
+display_size: [1100, 900]
+background_color: [230, 230, 230]
+text_color: [0, 0, 0]
+font: NotoSansMono-Regular.ttf
+font_size: 25
+line_spacing: 2.0
