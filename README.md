@@ -15,3 +15,9 @@ You will need **Python >= 3.10** to run the code. Please create a virtual enviro
 **Requirements:** [requirements.txt](2_experiment/requirements.txt)
 
 **Notebook:** [2_experiment.ipynb](2_experiment/2_experiment.ipynb)
+
+## Exercise 3: Statistical analysis for eye-tracking data
+
+**Requirements:** [requirements.txt](3_statistics/requirements.txt)
+
+**Notebook:** [3_statistics.ipynb](3_statistics/3_statistics.ipynb)
